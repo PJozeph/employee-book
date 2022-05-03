@@ -1,0 +1,11 @@
+.employee-list-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: auto 10rem;
+}
+
+.employee-card-item {
+    display: grid;
+    place-items: center;
+    margin: 1rem 0;
+}
